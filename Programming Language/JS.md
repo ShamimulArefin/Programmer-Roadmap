@@ -1,4 +1,4 @@
-# JS Basic
+## JS Basic
 - Data Types
 - Variables
 - Constant
@@ -8,7 +8,7 @@
 - Arrays
 - Functions
 
-# JS Object
+### JS Object
 - Objects & This (call by value, call by reference)
 - Methods of object
 - Implement built-in methods of js object by yourself
