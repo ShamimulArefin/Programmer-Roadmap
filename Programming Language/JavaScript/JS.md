@@ -24,7 +24,7 @@
 - Implement built-in methods of js function by yourself
 
 # ECMAScript
-- What is ECMAScript (https://tc39.es/ecma262/)
+- [What is ECMAScript](https://tc39.es/ecma262/)
 - ES6
 - Implement ES6 features by yourself
 
