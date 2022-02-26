@@ -1,11 +1,11 @@
-# Introduction of C
+## Introduction of C
 - Keywords & Identifiers
 - Variables & Constants
 - Data Types
 - Input/Output
 - Operators
 
-# Flow Controls
+## Flow Controls
 - if…else
 - for Loop
 - while Loop
@@ -13,38 +13,38 @@
 - switch…case
 - Programming goto
 
-# Functions
+## Functions
 - Programming Functions
 - User-defined Functions
 - Function Types
 - Recursion
 - Storage Class
 
-# Arrays
+## Arrays
 - Programming Arrays
 - Multi-dimensional Arrays
 - Arrays & Function
 
-# Pointers
+## Pointers
 - Programming Pointers
 - Pointers & Arrays
 - Pointers And Functions
 - Memory Allocation
 
-# Strings
+## Strings
 - Programming String
 - String Functions
 
-# Structure and Union
+## Structure and Union
 - Structure
 - Struct & Pointers
 - Struct & Function
 - Unions
 
-# Files
+## Files
 - Files Input/Output
 
-# Additional Topics
+## Additional Topics
 - Enumeration
 - Preprocessors
 - Standard Library
